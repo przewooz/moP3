@@ -1,0 +1,8 @@
+C:\z_mine\research\paints\program\IslandGA_igd_ok.exe\\PROGRAM
+C:\z_mine\research\paints\benchmarks\bMaxCut\\DIR
+summary_maxcut_mogomea.txt\\SUMMFILE
+settings_maxcut_6_mogomea.txt\\50
+settings_maxcut_12_mogomea.txt\\50
+settings_maxcut_25_mogomea.txt\\50
+settings_maxcut_50_mogomea.txt\\50
+settings_maxcut_100_mogomea.txt\\50

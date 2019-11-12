@@ -1,0 +1,14 @@
+_nsga2_400pop_//destination_file
+optimization//mode
+binary_binary//problem_type
+binary_multi_paints//evaluation_type
+C:\Projekty\projekty_pwr\island_ga\x64\Release\indirect_paints.txt//evaluation_config_file_path
+//optimal_pf_not_really_optimal
+nsga2//optimizer_type
+ffe//stop_condition_type
+25000000//stop_condition_max_number_of_ffe
+400//population_size
+2//tournament_size
+0.9//ProbCross
+1//ProbMut
+1//FullGenotypeMut

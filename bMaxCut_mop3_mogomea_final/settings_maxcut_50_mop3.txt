@@ -1,0 +1,16 @@
+_mop3_maxcut_50\\destination_file
+optimization\\mode
+binary_binary\\problem_type
+binary_multi_max_cut_mogomea\\evaluation_type
+50\\maxcut_mogomea_arg_num
+maxcut\maxcut_pareto_front_50.txt\\maxcut_mogomea_opt_pf
+p3\\optimizer_type
+ffe\\stop_condition_type
+25000000\\stop_condition_max_number_of_ffe
+default.cfg\\optimizer_config_file_path
+1\\multi_obj_weight_vec
+0\\multi_obj_weight_vec_pareto_based
+0\\with_feedback
+
+
+

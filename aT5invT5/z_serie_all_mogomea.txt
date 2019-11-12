@@ -1,0 +1,8 @@
+D:\research\program\IslandGA.exe\\PROGRAM
+D:\research\experiments\aT5invT5\\DIR
+summary_t5_it5_mogomea.txt\\SUMMFILE
+settings_t5_it5_25_mogomea.txt\\50
+settings_t5_it5_50_mogomea.txt\\50
+settings_t5_it5_100_mogomea.txt\\50
+settings_t5_it5_200_mogomea.txt\\50
+settings_t5_it5_400_mogomea.txt\\50

@@ -1,0 +1,8 @@
+D:\research\program\IslandGA_moP3ok.exe\\PROGRAM
+D:\research\experiments\a1_0max\\DIR
+summary_1_0max_mop3ok.txt\\SUMMFILE
+settings_01max_25_mop3ok.txt\\50
+settings_01max_50_mop3ok.txt\\50
+settings_01max_100_mop3ok.txt\\50
+settings_01max_200_mop3ok.txt\\50
+settings_01max_400_mop3ok.txt\\50

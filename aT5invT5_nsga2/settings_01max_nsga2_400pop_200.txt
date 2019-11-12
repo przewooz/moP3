@@ -1,0 +1,17 @@
+_nsga2_400pop_t5_it5_200_\\destination_file
+optimization\\mode
+binary_binary\\problem_type
+binary_multi_reversing\\evaluation_type
+0\\reverse_bit_for_0_measure
+5\\optimal_pf_bit_step
+binary_deceptive_concatenation\\evaluation_type
+dec_concat_200.txt\\evaluation_config_file_path
+nsga2_orig\\optimizer_type
+ffe\\stop_condition_type
+25000000\\stop_condition_max_number_of_ffe
+400\\population_size
+2\\crossover_type (1-singlePoint;2-uniform)
+0.9\\ProbCross
+1\\ProbMut
+1\\FullGenotypeMut
+

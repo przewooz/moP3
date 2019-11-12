@@ -1,0 +1,8 @@
+D:\research\program\IslandGA.exe\\PROGRAM
+D:\research\experiments\a1_0max\\DIR
+summary_1_0max_mogomea.txt\\SUMMFILE
+settings_01max_25_mogomea.txt\\50
+settings_01max_50_mogomea.txt\\50
+settings_01max_100_mogomea.txt\\50
+settings_01max_200_mogomea.txt\\50
+settings_01max_400_mogomea.txt\\50

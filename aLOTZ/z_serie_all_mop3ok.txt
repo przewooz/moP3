@@ -1,0 +1,8 @@
+D:\research\program\IslandGA_moP3ok.exe\\PROGRAM
+D:\research\experiments\aLOTZ\\DIR
+summary_lotz_mop3ok.txt\\SUMMFILE
+settings_lotz_25_mop3ok.txt\\50
+settings_lotz_50_mop3ok.txt\\50
+settings_lotz_100_mop3ok.txt\\50
+settings_lotz_200_mop3ok.txt\\50
+settings_lotz_400_mop3ok.txt\\50

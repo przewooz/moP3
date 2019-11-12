@@ -1,0 +1,4 @@
+C:\z_mine\research\paints\program\IslandGA_igd_ok.exe\\PROGRAM
+C:\z_mine\research\paints\benchmarks\bKnapSack\\DIR
+summary_knap_mop3ok_new.txt\\SUMMFILE
+settings_knap_100_mop3.txt\\2

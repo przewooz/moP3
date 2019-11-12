@@ -1,0 +1,8 @@
+D:\research\program\IslandGA.exe\\PROGRAM
+D:\research\experiments\aLOTZ\\DIR
+summary_lotz_mogomea.txt\\SUMMFILE
+settings_lotz_25_mogomea.txt\\50
+settings_lotz_50_mogomea.txt\\50
+settings_lotz_100_mogomea.txt\\50
+settings_lotz_200_mogomea.txt\\50
+settings_lotz_400_mogomea.txt\\50

@@ -1,0 +1,8 @@
+D:\research\program\IslandGA_moP3ok.exe\\PROGRAM
+D:\research\experiments\aT5invT5\\DIR
+summary_t5_it5_mop3ok.txt\\SUMMFILE
+settings_t5_it5_25_mop3ok.txt\\50
+settings_t5_it5_50_mop3ok.txt\\50
+settings_t5_it5_100_mop3ok.txt\\50
+settings_t5_it5_200_mop3ok.txt\\50
+settings_t5_it5_400_mop3ok.txt\\50

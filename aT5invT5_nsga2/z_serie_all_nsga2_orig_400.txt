@@ -1,0 +1,8 @@
+C:\z_mine\research\paints\program\IslandGA_nsga2_orig.exe\\PROGRAM
+C:\z_mine\research\paints\benchmarks\aT5invT5_nsga2\\DIR
+summary_t5_it5_nsga2_400.txt\\SUMMFILE
+settings_01max_nsga2_400pop_25.txt\\50
+settings_01max_nsga2_400pop_50.txt\\50
+settings_01max_nsga2_400pop_100.txt\\50
+settings_01max_nsga2_400pop_200.txt\\50
+settings_01max_nsga2_400pop_400.txt\\50
