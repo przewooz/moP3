@@ -1,0 +1,1 @@
+settings_maxcut_nsga2_25_400.txt

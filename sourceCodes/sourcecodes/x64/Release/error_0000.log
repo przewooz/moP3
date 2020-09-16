@@ -1,0 +1,72 @@
+Error local time: 2020-04-16 10:47:12
+Error parent: UNKNOWN_ERROR_PARENT
+Error name:
+SYSTEM_FILE_NOT_FOUND
+Error message:
+dec_concat.txt
+______________
+
+Error local time: 2020-04-16 10:47:30
+Error parent: UNKNOWN_ERROR_PARENT
+Error name:
+SYSTEM_FILE_NOT_FOUND
+Error message:
+dec_concat.txt
+______________
+
+Error local time: 2020-04-16 10:48:33
+Error parent: UNKNOWN_ERROR_PARENT
+Error name:
+SYSTEM_OUT_OF_BOUND_ARGUMENT
+Error message:
+evaluation_type {concatenation, binary_ising_spin_glass, binary_deceptive_concatenation, binary_deceptive_step_trap, binary_knapsack, binary_discretized_rastrigin, binary_cyclic_fenotype, binary_deceptive, binary_nearest_neighbor_nk, binary_hiff, binary_max_sat, binary_max_3_sat, binary_discretized_rosenbrock, binary_cyclic_trap}
+______________
+
+Error local time: 2020-04-16 11:12:58
+Error parent: UNKNOWN_ERROR_PARENT
+Error name:
+SYSTEM_MISMATCHING_ARGUMENT
+Error message:
+line: 0\\reverse_bit_for_0_measure; expected: multi_objective_weight_type; found: reverse_bit_for_0_measure
+______________
+
+Error local time: 2020-04-16 11:12:58
+Error parent: UNKNOWN_ERROR_PARENT
+Error name:
+UNKNOWN
+Error message:
+Unknown weighting type ''
+______________
+
+Error local time: 2020-04-16 11:18:34
+Error parent: UNKNOWN_ERROR_PARENT
+Error name:
+SYSTEM_MISMATCHING_ARGUMENT
+Error message:
+line: 0\\reverse_bit_for_0_measure; expected: multi_objective_weight_type; found: reverse_bit_for_0_measure
+______________
+
+Error local time: 2020-04-16 11:18:34
+Error parent: UNKNOWN_ERROR_PARENT
+Error name:
+UNKNOWN
+Error message:
+Unknown weighting type ''
+______________
+
+Error local time: 2020-04-16 11:20:05
+Error parent: UNKNOWN_ERROR_PARENT
+Error name:
+SYSTEM_OUT_OF_BOUND_ARGUMENT
+Error message:
+optimizer_type {population_sizing, ltga_original_population_sizing, p3, ltga_original, ltga, dsmga2, 3LOaSingle, 3LOa}
+______________
+
+Error local time: 2020-04-16 11:22:12
+Error parent: UNKNOWN_ERROR_PARENT
+Error name:
+OPERATOR_NOT_FOUND
+Error message:
+optimizer
+______________
+

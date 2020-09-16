@@ -1,0 +1,35 @@
+1\\MultiplyTask
+PaintsGenerator\\PaintsConfigType
+0.5\\MEASURE_Makespan
+0.5\\MEASURE_Overhead
+8\\PaintsNum
+3\\MachinesNum
+largest*1.3 exp^3.000000 lin*4.050000\\1  amount_to_produce; mach_base_amount; mach_eff
+sum*1.3 exp^3.000000 lin*4.050000\\1  amount_to_produce; mach_base_amount; mach_eff
+largest*1.05 exp^4.0000  lin*6.00000\\2  amount_to_produce; mach_base_amount; mach_eff
+sum*1.05 exp^4.0000  lin*6.00000\\2  amount_to_produce; mach_base_amount; mach_eff
+largest*1.1 exp^5.30000  lin*8.000000 \\3  amount_to_produce; mach_base_amount; mach_eff
+sum*1.1 exp^5.30000  lin*8.000000 \\3  amount_to_produce; mach_base_amount; mach_eff
+largest*1.5 exp^6.00  lin*9.000000\\4  amount_to_produce; mach_base_amount; mach_eff
+sum*1.5 exp^6.00  lin*9.000000\\4  amount_to_produce; mach_base_amount; mach_eff
+largest*1.3 exp^3.000000 lin*4.050000\\5  amount_to_produce; mach_base_amount; mach_eff
+sum*1.3 exp^3.000000 lin*4.050000\\5  amount_to_produce; mach_base_amount; mach_eff
+largest*1.05 exp^4.0000  lin*6.00000\\6  amount_to_produce; mach_base_amount; mach_eff
+sum*1.05 exp^4.0000  lin*6.00000\\6  amount_to_produce; mach_base_amount; mach_eff
+largest*1.1 exp^5.30000  lin*8.000000 \\7  amount_to_produce; mach_base_amount; mach_eff
+sum*1.1 exp^5.30000  lin*8.000000 \\7  amount_to_produce; mach_base_amount; mach_eff
+largest*1.5 exp^6.00  lin*9.000000\\8  amount_to_produce; mach_base_amount; mach_eff
+sum*1.5 exp^6.00  lin*9.000000\\8  amount_to_produce; mach_base_amount; mach_eff
+largest*1.5 pow^2  lin*2.500000\\9  amount_to_produce; mach_base_amount; mach_eff
+sum*1.5 pow^2  lin*2.500000\\9  amount_to_produce; mach_base_amount; mach_eff
+largest*1.2 pow^2  lin*2.500000\\10  amount_to_produce; mach_base_amount; mach_eff
+sum*1.2 pow^2  lin*2.500000\\10  amount_to_produce; mach_base_amount; mach_eff
+largest*1.0 pow^3  lin*5.100000\\11  amount_to_produce; mach_base_amount; mach_eff
+sum*1.0 pow^3  lin*5.100000\\11  amount_to_produce; mach_base_amount; mach_eff
+largest*1.0 lin*2.100000  lin*3.5100000\\12  amount_to_produce; mach_base_amount; mach_eff
+sum*1.0 lin*2.100000  lin*3.5100000\\12  amount_to_produce; mach_base_amount; mach_eff
+
+
+
+
+

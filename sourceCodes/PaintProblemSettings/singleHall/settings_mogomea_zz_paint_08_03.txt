@@ -1,0 +1,11 @@
+_mogomea_zz_paint_08_03_\\destination_file
+optimization\\mode
+binary_binary\\problem_type
+binary_multi_paints\\evaluation_type
+.\paint_defs\zz_paint_08_03.txt\\evaluation_config_file_path
+weight_vector\\multi_objective_weight_type
+\\optimal_pf_not_really_optimal
+mogomea\\optimizer_type
+ffe\\stop_condition_type
+25000000\\stop_condition_max_number_of_ffe
+

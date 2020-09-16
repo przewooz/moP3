@@ -1,0 +1,1 @@
+settings_lotz_nsga2_400pop_25.txt

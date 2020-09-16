@@ -1,0 +1,1 @@
+settings_knap_nsga2_100.txt
